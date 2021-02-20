@@ -1,0 +1,77 @@
+.navbar{
+    background-color:rgb(12, 12, 12);
+}
+.intro{
+    background-image: url('index.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 15cm;
+}
+.heading{
+    padding-top:2cm;
+    font-size: 30px;
+    color: black;
+}
+.foot{
+    background-color:rgb(12, 12, 12);
+    color:rgb(255, 255, 255);
+    padding: 20px;
+}
+.bottom{
+    padding: 20px;
+}
+.menu{
+    max-height: 9cm;
+    max-width: 9cm;
+}
+.media{
+    padding: 20px;
+}
+#title{
+    font-family: "Brush Script MT";
+    font-size: 50px;
+}
+.log{
+    padding:6px;
+    margin: 4px;
+    width: 2.5cm;
+    background-color: whitesmoke;
+    color: black;
+    border:none !important;
+}
+.log:hover{
+    background-color: rgb(246, 255, 208);
+    color:black;
+    border:none !important;
+}
+.log:active{
+    background-color: rgb(252, 225, 186) !important;
+    color:black !important;
+    border:none !important;
+}
+.dropdown,.fas,.id{
+    background-color: whitesmoke;
+    color:black;
+    border:none !important;
+    border-radius: 50%;
+}
+.fas{
+    font-size: 25px;
+    height: 0.8cm;
+    width:0.6cm;
+}
+.id:hover,.id:active{
+    background-color:whitesmoke !important ;
+    color:black !important;
+    border:none !important;
+}
+.dropdown-item:hover{
+background-color: rgb(250, 222, 185);
+}
+.carousel{
+    width: 20cm;
+    height: 3cm;
+    margin: 1cm 0 10cm 10cm;
+  }
